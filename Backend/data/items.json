@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "Crispy Chili Oil",
+    "price": 49,
+    "imgUrl": "/imgs/Crispy-Chili-In-Oil-Lao-gan-Ma-210g-23-02.webp",
+    "stock": 0
+  },
+  {
+    "id": 2,
+    "name": "Egg Noodles",
+    "price": 14,
+    "imgUrl": "/imgs/egg-noodle.webp",
+    "stock": 16
+  },
+  {
+    "id": 3,
+    "name": "BubbleTea",
+    "price": 1.05,
+    "imgUrl": "/imgs/LadyBobaBubbleTeaClassic.webp",
+    "stock": 3
+  },
+  {
+    "id": 4,
+    "name": "MSG",
+    "price": 14000,
+    "imgUrl": "/imgs/msg.webp",
+    "stock": 8
+  },
+  {
+    "id": 5,
+    "name": "Rice Noodles",
+    "price": 5,
+    "imgUrl": "/imgs/rice-noodles.jpg",
+    "stock": 12
+  },
+  {
+    "id": 6,
+    "name": "Sesame Oil",
+    "price": 8,
+    "imgUrl": "/imgs/Sesameoil.jpg",
+    "stock": 20
+  },
+  {
+    "id": 7,
+    "name": "Bamboo Shoots",
+    "price": 2.5,
+    "imgUrl": "/imgs/strimlade-bambuskott.webp",
+    "stock": 5
+  },
+  {
+    "id": 8,
+    "name": "Dried Shiitake",
+    "price": 7.5,
+    "imgUrl": "/imgs/torkad-shiitake.webp",
+    "stock": 12
+  },
+  {
+    "id": 9,
+    "name": "Wakame",
+    "price": 3.5,
+    "imgUrl": "/imgs/Wakame-200g.webp",
+    "stock": 8
+  }
+]
